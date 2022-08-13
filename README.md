@@ -5,7 +5,7 @@ This is a paid
 
 
 
-git clonehttps://github.com/Hakimraj/HAKIM-YT
+git clone https://github.com/Hakimraj/HAKIM-YT
 
 Cd HAKIM-YT
 
